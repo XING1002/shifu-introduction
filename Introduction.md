@@ -10,7 +10,7 @@ IoT devices are devices that can connect and communicate online or locally with 
 Shifu is compatible with different communication protocols and drivers. It unifies different devices and opens it to users in the form of HTTP, making the functions of the device more accessible for users.
 
 Relationship between Shifu, APP and device:
-![screenshot_20220627_211834(1).jpg](WEBRESOURCEbe1c96676bb27b81dec2bba984e07c75)
+![text](https://github.com/XING1002/shifu-introduction/blob/main/533517c9916c35a9e56a8e6b725474db%20(1).jpg)
 **Communication** **between** **Shifu** **and** **devices:**  
 Shifu is constantly improving campatibility with new protocols and drivers. For the current list of compatibility, see [Protocols](https://cn.docs.shifu.run/zh/home/protocols) and [Drivers](https://cn.docs.shifu.run/zh/home/drivers).
 
